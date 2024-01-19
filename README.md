@@ -1,4 +1,5 @@
-Bachelorarbeit — Vergleich von Algorithmen zur Kundensegmentierung unter Verwendung verschiedener Datensätze (ML: KMEANS und DBSCAN).
+Bachelorarbeit: Python (Daten aufbereiten, analysieren und visualisieren) + Machine Learning.
+TITEL: Vergleich von Algorithmen zur Kundensegmentierung unter Verwendung verschiedener Datensätze (ML: KMEANS und DBSCAN).
 
 - Verwendete Bibliotheken in Python:
 Pandas, NumPy, Matplotlib, sklearn, Timeit, Plotly, 
