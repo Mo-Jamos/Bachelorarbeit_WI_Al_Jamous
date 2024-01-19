@@ -9,8 +9,8 @@ Matplotlip, Seaborn, Tabulate.
   anaconda - spyder IDE
 
 - Verwendete Datensätze (Open source):
-  1- Erster Datensatz:
+  1- Erster Datensatz (Mall Customer):
 https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-  2- Zweiter Datensatz:
+  2- Zweiter Datensatz (Online Retail):
   https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
